@@ -41,6 +41,8 @@
     
 }
 
+
+
 .box h3 {
     text-align: center;
 
@@ -51,9 +53,10 @@
     background-color: #9B59B6;
     padding-bottom:10px;
     border-radius: 8px;
-    color:white;
+    color:white ;
     margin-bottom: 7px;
 }
+
 
 .box2 {
     
@@ -70,6 +73,11 @@
     border-radius: 8px;
     color:white;
     margin-top:7px;
+}
+
+.box a {
+    text-decoration: none;
+    color: white;
 }
 
 .more {

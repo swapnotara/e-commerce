@@ -1,0 +1,111 @@
+.nav-link {
+    color: #761ea8 !important;
+}
+
+.nav-link:hover {
+    color: #9936d3 !important;
+    text-decoration: underline;
+}
+
+
+
+
+
+.omar {
+    margin-bottom: 4%;
+}
+
+.omar h2 {
+    color:rgb(224, 32, 96);
+}
+
+.des img {
+    width:70%;
+}
+
+.nav-font {
+    
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 500;
+    
+
+}
+
+.nav-font h1 {
+    color:palevioletred;
+    font-family: 'Grandstander', cursive;
+}
+
+.button {
+    height: 50px;
+    width: 300px;
+    background-color: rgb(224, 32, 96);
+    text-align: center;
+    align-content: center;
+    color:#fff;
+    border-radius: 8px;
+    
+}
+.button:hover {
+    background-color: rgb(245, 16, 92);
+}
+.button a {
+    text-decoration:none;
+    color: white;
+}
+
+.button img {
+    width:10%;
+}
+
+.catf {
+    font-family: 'Grandstander', cursive;
+    text-align: center;
+
+}
+
+.line {
+    height: 4px;
+    width: 15%;
+    background-color: orange;
+    margin-left: 41.5%;
+    border-radius: 15px;
+    
+}
+
+.card-deck {
+    margin-bottom: 3%;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 500;
+}
+
+.card-deck h5 {
+    color:palevioletred;
+    font-family: 'Grandstander', cursive;
+}
+
+.b-now {
+    height: 40px;
+    width: 150px;
+    background-color: rgb(224, 32, 96);
+    text-align: center;
+    border-radius: 10px;
+    
+}
+
+.b-now a {
+    text-decoration: none;
+    
+    color: white;
+
+    
+}
+
+.b-now:hover {
+    background-color:rgb(245, 16, 92) ;
+}
+
+.n-mar {
+    margin-bottom: 6em;
+}
+
