@@ -75,6 +75,30 @@
     margin-top:7px;
 }
 
+.box1 {
+    transition: all 2s;
+}
+
+.box1:hover {
+    transform: scale(0.9);
+}
+
+.box2 {
+    transition: all 2s;
+}
+
+.box2:hover {
+    transform: scale(0.9);
+}
+
+.box3 {
+    transition: all 2s;
+}
+
+.box3:hover {
+    transform: scale(0.9);
+}
+
 .box a {
     text-decoration: none;
     color: white;

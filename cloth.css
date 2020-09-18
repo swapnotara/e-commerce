@@ -109,3 +109,6 @@
     margin-bottom: 6em;
 }
 
+.card-back {
+    background-color: palevioletred;
+}
